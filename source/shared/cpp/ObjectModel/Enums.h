@@ -74,7 +74,8 @@ enum class AdaptiveCardSchemaKey
     Actions,
     Method,
     Card,
-    ContainerStyle
+    ContainerStyle,
+    Id,
 };
 
 enum class TextSize
